@@ -7,3 +7,6 @@ class CreateSongs < ActiveRecord::Migration[4.2]
       end
     end
   end
+
+
+#  A song will belong to an artist and belong to a genre. 
